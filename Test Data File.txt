@@ -6,3 +6,5 @@ Hello Test again!!!
 
 
 Added text to commit
+
+Delete contents
