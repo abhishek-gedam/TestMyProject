@@ -1,3 +1,0 @@
-Hello,
-
-This is test file. Just need to add with git.
